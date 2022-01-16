@@ -11,4 +11,4 @@ namespace ConsoleApp46
         public int Age { get; set; }
     }
 }
-
+//salam
